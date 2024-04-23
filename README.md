@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 seminar/
 ├─ index.html        # 首页
 ├─ member.html       # 成员介绍页
+真央教授
 ├─ work.html         # 活动介绍页
 ├─ README.md
 ├─ images
