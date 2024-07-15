@@ -23,3 +23,4 @@ seminar/
 真央教授
 Elmas
 Wakaba
+yuanqh23
